@@ -206,4 +206,6 @@ This project provides hands-on practice with essential Linux command-line tools 
 
 **Abhishek**
 
-B.Tech CSE Student
+B.Tech Computer Science & Engineering
+
+Learning Linux, DevOps
