@@ -246,4 +246,4 @@ Then display it in GitHub using:
 
 B.Tech Computer Science & Engineering
 
-Learning Linux, DevOps, and Backend Development
+Learning Linux, DevOps
